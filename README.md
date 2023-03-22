@@ -1,3 +1,3 @@
 # Machine-Learning-Projects
 
-Currently learning ML 
+On a mission to Build *100* Machine Learning Projects to solidify my understanding and concepts.
